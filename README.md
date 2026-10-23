@@ -28,19 +28,15 @@ Estudo Ciência da Computação e compartilho por aqui projetos, experimentos e 
 
 </div>
 
-### Projetos e estudos
+### Projetos em destaque
 
-**Machine Learning e visão computacional**  
-Estudos de classificação e análise de imagens retinianas, com aplicação de técnicas de aprendizado de máquina.
+| Projeto | Sobre |
+| --- | --- |
+| [**chess_web**](https://github.com/GiovanaAndrade1/chess_web) | Projeto de aplicação web para gerenciamento de torneios de xadrez. |
+| **Glaucoma** | Projeto de análise de imagens retinianas com foco em Machine Learning e visão computacional. *Link do repositório em breve.* |
+| [**hash**](https://github.com/GiovanaAndrade1/hash) | Repositório de estudos e implementação relacionados a hash. |
 
-**Segurança da informação**  
-Desenvolvimento de soluções para identificar padrões de tráfego potencialmente suspeitos e possíveis ataques DoS.
-
-**IA generativa na educação**  
-Participação em projeto sobre o uso ético, responsável e produtivo de inteligência artificial nos estudos.
-
-**Desenvolvimento web**  
-Construção de aplicações e experimentos com Python, Django e outras tecnologias.
+> Novos projetos de Machine Learning, análise de dados e desenvolvimento serão adicionados conforme forem ficando prontos.
 
 ---
 
