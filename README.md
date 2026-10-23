@@ -33,7 +33,7 @@ Estudo Ciência da Computação e compartilho por aqui projetos, experimentos e 
 | Projeto | Sobre |
 | --- | --- |
 | [**chess_web**](https://github.com/GiovanaAndrade1/chess_web) | Projeto de aplicação web para gerenciamento de torneios de xadrez. |
-| **Glaucoma** | Projeto de análise de imagens retinianas com foco em Machine Learning e visão computacional. *Link do repositório em breve.* |
+| [**GlaucomaDataset**](https://github.com/glaucoma-cnn/GlaucomaDataset) | Projeto colaborativo de análise de imagens retinianas. A etapa atual explora máscaras de disco e copo óptico, extrai medidas morfológicas e gera relatórios; parte de uma iniciativa de pesquisa em glaucoma. |
 | [**hash**](https://github.com/GiovanaAndrade1/hash) | Repositório de estudos e implementação relacionados a hash. |
 
 > Novos projetos de Machine Learning, análise de dados e desenvolvimento serão adicionados conforme forem ficando prontos.
