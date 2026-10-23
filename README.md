@@ -1,8 +1,8 @@
 <div align="center">
 
-# Giovana Andrade
+![Banner Giovana Andrade](./assets/banner.svg)
 
-**Ciência da Computação · Machine Learning · Análise de Dados · Desenvolvimento de Software**
+**Machine Learning · Visão Computacional · Análise de Dados · Desenvolvimento de Software**
 
 Estudo Ciência da Computação e compartilho por aqui projetos, experimentos e o que venho aprendendo, especialmente em Machine Learning, visão computacional e análise de dados.
 
